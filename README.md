@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me scratch.mit.edu/users/-orangebowtie-
+- 📫 How to reach me earth
 
 <!---
 mrcottonball/mrcottonball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
