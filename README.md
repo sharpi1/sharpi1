@@ -2,27 +2,13 @@ Mrcottonball
 
 i like boxes
 
-i know 3 languages(spanish english german)
+learning rust!
 
-here are the coding languages i know:
+```rust
+println!(" :) ")
+```
 
-  1.php
-  
-  2.c++
-  
-  3.python
-  
-  4.html
-  
-  5.css
-  
-  6.javascript
-  
-  7.java
-  
-  8.rust
-  
-  9.ruby
+i would be happy to help!
   
 
 <!---
