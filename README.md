@@ -1,6 +1,6 @@
 Mrcottonball
 
-hiii i like boxes
+i like boxes
 
 i know 3 languages(spanish english german)
 
