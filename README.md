@@ -1,11 +1,19 @@
 Mrcottonball
 
+hiii i like boxes
 
-- 👋 Hi, I’m @mrcottonball
-- 👀 I’m interested in games, websites, HTML, CSS and javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on repos
-- 📫 How to reach me in space
+i know 3 languages(spanish english german)
+
+here are the coding languages i know:
+php
+c++
+python
+html
+css
+javascript
+java
+rust
+ruby
 
 <!---
 mrcottonball/mrcottonball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
