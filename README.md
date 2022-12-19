@@ -1,5 +1,3 @@
-Mrcottonball
-
 i like boxes
 
 learning rust!
