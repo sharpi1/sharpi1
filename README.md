@@ -2,9 +2,9 @@ i like boxes
 
 learning rust!
 
-```rust
-println!(" :) ")
-```
+
+:)
+
 
 i would be happy to help!
   
