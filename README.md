@@ -1,6 +1,6 @@
 i like boxes
 
-learning rust!
+learning js, lua and ruby
 
 
 :)
