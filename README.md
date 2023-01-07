@@ -1,9 +1,3 @@
-<style>
-  body{
-    color: red;
-  }
-</style>
-
 <h1>i like boxes</h1>
 
 <h4>learning c++</h4>
