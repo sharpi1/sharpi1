@@ -1,4 +1,8 @@
-<script>alert("hi")</script>
+<style>
+  body{
+    color: red;
+  }
+</style>
 
 <h1>i like boxes</h1>
 
