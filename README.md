@@ -1,3 +1,5 @@
+<script>alert("hi")</script>
+
 <h1>i like boxes</h1>
 
 <h4>learning c++</h4>
