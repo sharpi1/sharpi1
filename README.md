@@ -7,6 +7,8 @@
 
 
 <h6>i would be happy to help!</h6>
+
+<img src="cute.jpeg"></img>
   
 
 <!---
