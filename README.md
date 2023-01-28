@@ -1,17 +1,9 @@
-<h1>i like boxes</h1>
+# ✨me✨
 
-<h4>learning c++, perl and js</h4>
+h̵̛̠̞̥͉̦͚͎̪͓̝͖͈̺̜̊͆͊̇͊̊̾̓̒̍͝ͅȩ̴̛̖̮͇̜̻̯͚̳̮̗͉͓̻̟͒͒̈́͒̏͘l̴͇̹̞͚̰̭͓̦̲̞͈̟͈̜̊̎́̓̕͜ļ̴̬͇̅̈́̊̿͐̽̓o̴̡̬͕̦͇̭̯̹̤̳̖͎͚͙͊́͜
 
+ｉ　ｗａｎｔ　ｔｏ　ｍａｋｅ　ｔｈｅ　ｗｏｒｌｄ　ｏｐｅｎ　ｓｏｕｒｃｅ
 
-<h5>:p</h5>
+卂几ᗪ　丨　几乇乇ᗪ　ㄚㄖㄩ尺　卄乇ㄥ卩！
 
-
-<h6>i would be happy to help!</h6>
-
-<img src="cute.jpeg"></img>
-  
-
-<!---
-this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+(っ◔◡◔)っ ♥ so, come and join my mission! ♥
